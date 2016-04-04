@@ -1,9 +1,5 @@
 # Project 4 - Twitter-with-Fragments
 
-**Name of your app** is an android app that allows a user to view home and mentions timelines, view user profiles with user timelines, as well as compose and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
-
-Time spent: **X** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
